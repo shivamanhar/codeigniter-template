@@ -10,5 +10,5 @@ It has logic to work with themes & modules and helps add your title, meta-data, 
 2. CodeIgniter 2.0.3
 
 ## Documentation
-
+## Thank you all
 Open `user_guide/index.html` in your browser for docs.
